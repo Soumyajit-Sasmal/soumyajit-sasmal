@@ -20,5 +20,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soumyajit-sasmal&show_icons=true&theme=dark&locale=en" alt="soumyajit-sasmal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumyajit-sasmal&theme=dark" alt="soumyajit-sasmal" /></p>
-act: ...
--->
