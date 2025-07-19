@@ -4,8 +4,6 @@
 <h1 align="center">Hi 👋, I'm Soumyajit Sasmal</h1>
 <h3 align="center">🚀A passionate frontend developer from India</h3>
 
-
-
 ---
 
 ## 🙋‍♂️ About Me
