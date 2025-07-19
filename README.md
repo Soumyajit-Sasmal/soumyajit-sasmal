@@ -37,6 +37,15 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyajit-sasmal&label=Profile%20views&color=0e75b6&style=flat" alt="soumyajit-sasmal" /> </p>
+<h3>  🛠️ Tools </h3> 
+
+<p align="left">
+  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
+</p>
+
 
 
 
@@ -49,3 +58,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soumyajit-sasmal&show_icons=true&theme=dark&locale=en" alt="soumyajit-sasmal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumyajit-sasmal&theme=dark" alt="soumyajit-sasmal" /></p>
+
