@@ -18,7 +18,7 @@
 
 <h3>🌐 Connect with me</h3>
 <p align="left">
-  <a href="https://soumyajitsasmal133@gmail.com" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" width="40" />
   </a>
   <a href="https://www.linkedin.com/in/soumyajit-sasmal-a05895353?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
