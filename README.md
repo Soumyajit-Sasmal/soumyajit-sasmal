@@ -64,3 +64,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soumyajit-sasmal&show_icons=true&theme=dark&locale=en" alt="soumyajit-sasmal" /></p>
 
 
+<div align="center">
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Soumyajit-Sasmal&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph" />
+
+</div>
