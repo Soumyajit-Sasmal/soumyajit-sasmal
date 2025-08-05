@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&width=500&lines=✨+Welcome+to+my+GitHub+Profile+🚀;💻+Explore+my+Projects+and+Code+📂;📈+Keep+Learning+Keep+Growing+🌱" alt="Typing SVG" />
+</p>
+
 
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
